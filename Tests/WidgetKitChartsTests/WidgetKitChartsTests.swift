@@ -1,11 +1,11 @@
     import XCTest
-    @testable import WidgetKitCharts
+//    @testable import WidgetKitCharts
 
-    final class WidgetKitChartsTests: XCTestCase {
-        func testExample() {
-            // This is an example of a functional test case.
-            // Use XCTAssert and related functions to verify your tests produce the correct
-            // results.
-            XCTAssertEqual(WidgetKitCharts().text, "Hello, World!")
-        }
-    }
+//    final class WidgetKitChartsTests: XCTestCase {
+//        func testExample() {
+//            // This is an example of a functional test case.
+//            // Use XCTAssert and related functions to verify your tests produce the correct
+//            // results.
+//            XCTAssertEqual(WidgetKitCharts().text, "Hello, World!")
+//        }
+//    }
